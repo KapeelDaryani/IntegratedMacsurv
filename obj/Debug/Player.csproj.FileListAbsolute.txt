@@ -1,0 +1,49 @@
+C:\Program Files (x86)\AForge.NET\Framework\Samples\Video\Player\bin\Debug\Player.exe
+C:\Program Files (x86)\AForge.NET\Framework\Samples\Video\Player\bin\Debug\Player.pdb
+C:\Program Files (x86)\AForge.NET\Framework\Samples\Video\Player\bin\Debug\AForge.Controls.dll
+C:\Program Files (x86)\AForge.NET\Framework\Samples\Video\Player\bin\Debug\AForge.Video.DirectShow.dll
+C:\Program Files (x86)\AForge.NET\Framework\Samples\Video\Player\bin\Debug\AForge.Video.dll
+C:\Program Files (x86)\AForge.NET\Framework\Samples\Video\Player\bin\Debug\AForge.dll
+C:\Program Files (x86)\AForge.NET\Framework\Samples\Video\Player\bin\Debug\AForge.Imaging.dll
+C:\Program Files (x86)\AForge.NET\Framework\Samples\Video\Player\bin\Debug\AForge.Math.dll
+C:\Program Files (x86)\AForge.NET\Framework\Samples\Video\Player\bin\Debug\AForge.Controls.xml
+C:\Program Files (x86)\AForge.NET\Framework\Samples\Video\Player\bin\Debug\AForge.Video.xml
+C:\Program Files (x86)\AForge.NET\Framework\Samples\Video\Player\bin\Debug\AForge.Video.DirectShow.xml
+C:\Program Files (x86)\AForge.NET\Framework\Samples\Video\Player\bin\Debug\AForge.xml
+C:\Program Files (x86)\AForge.NET\Framework\Samples\Video\Player\bin\Debug\AForge.Imaging.xml
+C:\Program Files (x86)\AForge.NET\Framework\Samples\Video\Player\bin\Debug\AForge.Math.xml
+C:\Program Files (x86)\AForge.NET\Framework\Samples\Video\Player\obj\Debug\ResolveAssemblyReference.cache
+C:\Program Files (x86)\AForge.NET\Framework\Samples\Video\Player\obj\Debug\Player.MainForm.resources
+C:\Program Files (x86)\AForge.NET\Framework\Samples\Video\Player\obj\Debug\Player.Properties.Resources.resources
+C:\Program Files (x86)\AForge.NET\Framework\Samples\Video\Player\obj\Debug\Player.URLForm.resources
+C:\Program Files (x86)\AForge.NET\Framework\Samples\Video\Player\obj\Debug\ResGen.read.1.tlog
+C:\Program Files (x86)\AForge.NET\Framework\Samples\Video\Player\obj\Debug\ResGen.write.1.tlog
+C:\Program Files (x86)\AForge.NET\Framework\Samples\Video\Player\obj\Debug\Player.exe
+C:\Program Files (x86)\AForge.NET\Framework\Samples\Video\Player\obj\Debug\Player.pdb
+C:\Program Files (x86)\AForge.NET\Framework\Samples\Video\Player\bin\Debug\Player.exe.config
+C:\Users\project\Desktop\Player\bin\Debug\Player.exe.config
+C:\Users\project\Desktop\Player\bin\Debug\Player.exe
+C:\Users\project\Desktop\Player\bin\Debug\Player.pdb
+C:\Users\project\Desktop\Player\bin\Debug\AForge.Controls.dll
+C:\Users\project\Desktop\Player\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\project\Desktop\Player\bin\Debug\AForge.Video.dll
+C:\Users\project\Desktop\Player\bin\Debug\AForge.dll
+C:\Users\project\Desktop\Player\bin\Debug\AForge.Imaging.dll
+C:\Users\project\Desktop\Player\bin\Debug\AForge.Math.dll
+C:\Users\project\Desktop\Player\bin\Debug\AForge.Controls.xml
+C:\Users\project\Desktop\Player\bin\Debug\AForge.Video.xml
+C:\Users\project\Desktop\Player\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\project\Desktop\Player\bin\Debug\AForge.xml
+C:\Users\project\Desktop\Player\bin\Debug\AForge.Imaging.xml
+C:\Users\project\Desktop\Player\bin\Debug\AForge.Math.xml
+C:\Users\project\Desktop\Player\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\project\Desktop\Player\obj\Debug\Player.MainForm.resources
+C:\Users\project\Desktop\Player\obj\Debug\Player.Properties.Resources.resources
+C:\Users\project\Desktop\Player\obj\Debug\Player.URLForm.resources
+C:\Users\project\Desktop\Player\obj\Debug\ResGen.read.1.tlog
+C:\Users\project\Desktop\Player\obj\Debug\ResGen.write.1.tlog
+C:\Users\project\Desktop\Player\obj\Debug\Player.exe
+C:\Users\project\Desktop\Player\obj\Debug\Player.pdb
+C:\Users\project\Desktop\Player\obj\Debug\macsurvControl.MainForm.resources
+C:\Users\project\Desktop\Player\obj\Debug\macsurvControl.Properties.Resources.resources
+C:\Users\project\Desktop\Player\obj\Debug\macsurvControl.URLForm.resources
